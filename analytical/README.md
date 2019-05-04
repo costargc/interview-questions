@@ -1,4 +1,4 @@
 # Analitical
 
-* [probability](/interiew-questions/analytical/probability/probability.md)
-* [statistical-inference](/interiew-questions/analytical/probability/statistical-inference.md)
+* [probability](../master/analytical/probability/probability.md)
+* [statistical-inference](../master/analytical/probability/statistical-inference.md)

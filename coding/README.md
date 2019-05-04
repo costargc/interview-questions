@@ -1,4 +1,4 @@
 # Coding
 
- * [roman-numeral](/interiew-questions/coding/coding/roman-numeral/)
-    * [roman-numeral :: source-code](/interiew-questions/coding/coding/roman-numeral/romanNum.js)
+ * [roman-numeral](../master/coding/roman-numeral/)
+    * [roman-numeral :: source-code](../master/coding/roman-numeral/romanNum.js)
