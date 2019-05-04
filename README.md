@@ -2,7 +2,7 @@
 This is a collection of interview questions that I saw.
 
 # Coding
- * [roman-numeral](https://github.com/costargc/interview-questions/coding/roman-numeral/)
+ * [roman-numeral](../blob/master/coding/roman-numeral/)
     * [roman-numeral :: source-code](https://github.com/costargc/interview-questions/coding/roman-numeral/romanNum.js)
 
 # Analitical
