@@ -12,9 +12,7 @@
 
 function palindrome_check(word) {
     for (i = 0; i < word.length; i++) {
-        if (word[i] == word[word.length - i - 1]) {
-        }
-        else {
+        if (word[i] != word[word.length - i - 1]) {
             console.log('false');
             return false;
         }
