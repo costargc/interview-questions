@@ -3,7 +3,7 @@ This is a collection of interview questions that I saw.
 
 # Coding
 * [roman-numeral](../master/coding/roman-numeral/romanNum.js)
-* [roman-numeral](../master/coding/palindrome/palindrome.js)
+* [palindrome](../master/coding/palindrome/palindrome.js)
 
 
 # Analitical
