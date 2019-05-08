@@ -1,6 +1,6 @@
 # Roman Numeral
 
-write a function that conversts a number to Roman Numeral.
+write a function that converts a number to Roman Numeral.
 Try using the following map:
 
 ```
