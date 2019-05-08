@@ -2,8 +2,9 @@
 This is a collection of interview questions that I saw.
 
 # Coding
- * [roman-numeral](../master/coding/roman-numeral/)
-    * [roman-numeral :: source-code](../master/coding/roman-numeral/romanNum.js)
+* [roman-numeral](../master/coding/roman-numeral/romanNum.js)
+* [roman-numeral](../master/coding/palindrome/palindrome.js)
+
 
 # Analitical
 * [probability](../master/analytical/probability/probability.md)
