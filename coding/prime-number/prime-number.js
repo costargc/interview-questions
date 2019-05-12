@@ -8,7 +8,7 @@
 
 //not using reminder %
 function isPrime(num) {
-    for (i = 2; i < num; i++) {
+    for (i = 2; i < Math.sqrt(num); i++) { //we just need to test until sqrt(num) as n=a*b >> a=b=sqrt(n)
 
         res = num;
         while (res >= i) {
@@ -24,7 +24,7 @@ function isPrime(num) {
 
 //using reminder %
 function isPrime_rem(num) {
-    for (i = 2; i < num; i++) {
+    for (i = 2; i < Math.sqrt(num); i++) { //we just need to test until sqrt(num) as n=a*b >> a=b=sqrt(n)
 
         if (num%i == 0) {
             return false;
@@ -38,3 +38,6 @@ console.log(isPrime(73));
 
 console.log(isPrime_rem(14));
 console.log(isPrime_rem(73));
+
+
+console.log(isPrime_rem(67280421310721)); //Thomas Clausen's prime
