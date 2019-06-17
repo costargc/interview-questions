@@ -5,6 +5,7 @@ This is a collection of interview questions that I saw.
 * [roman-numeral](../master/coding/roman-numeral/romanNum.js)
 * [palindrome](../master/coding/palindrome/palindrome.js)
 * [prime-check](../master/coding/prime-number/prime-number.js)
+* [weekdays](../master/coding/weekdays/weekdays.js)
 
 
 # Analitical
