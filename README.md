@@ -8,7 +8,7 @@ This is a collection of interview questions that I saw.
 * [weekdays](../master/coding/weekdays/weekdays.js)
 * [typeof](../master/coding/typeof-string-num/typeof-string-sum.js)
 * [string](../master/coding/string-sum-search/string-sum-search.js)
-* [weekdays](../master/coding/array-or-false/array-or-false.js)
+* [array](../master/coding/array-or-false/array-or-false.js)
 
 
 # Analitical
