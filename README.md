@@ -1,7 +1,8 @@
 # interview-questions
 This is a collection of interview questions that I saw.
 
-# Coding - Easy Level
+# Coding
+## Coding - Easy Level
 * [palindrome-check](../master/coding/easy-level/palindrome-check/palindrome-check.js)
 * [weekdays](../master/coding/easy-level/weekdays/weekdays.js)
 * [typeof-string-num](../master/coding/easy-level/typeof-string-num/typeof-string-sum.js)
@@ -21,7 +22,7 @@ This is a collection of interview questions that I saw.
     * [selection-sort]()
     * [caesar-cipher-encryptor]()
 
-# Coding - Medium Level <br/> <sub> you should focus on those quesitons!</sub>
+## Coding - Medium Level <br/> <sub> you should focus on those quesitons!</sub>
 * [prime-check](../master/coding/medium-level/prime-number/prime-number.js)
 * [roman-numeral](../master/coding/medium-level/roman-numeral/romanNum.js)
     ### pending solution:
@@ -49,7 +50,7 @@ This is a collection of interview questions that I saw.
     * [longest-palindromic-substring]()
     * [btoa-64-encryption]()
 
-# Coding - Hard Level (you should focus on those quesitons!)
+## Coding - Hard Level
 * .
     ### pending solution:
     * [four-number-sum]()
@@ -77,7 +78,7 @@ This is a collection of interview questions that I saw.
     * [pattern-matches]()
     * [multi-string-search]()
 
-# Coding - Extreme Level
+## Coding - Extreme Level
 * .
     ### pending solution:
     * [iterative-in-order-traversal]()
