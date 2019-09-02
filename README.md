@@ -52,15 +52,43 @@ This is a collection of interview questions that I saw.
 # Coding - Hard Level (you should focus on those quesitons!)
 .
     ### pending solution:
-    * [balandec-brackets]()
-    * [balandec-brackets]()
+    * [four-number-sum]()
+    * [subarray-sort]()
+    * [largest-range]()
+    * [min-reward]()
+    * [max-path-sum-binary-tree]()
+    * [max-sum-increasing-subsequence]()
+    * [longest-common-subsequence]()
+    * [min-number-of-jumps]()
+    * [water-area]()
+    * [disk-stacking]()
+    * [topological-sort]()
+    * [boggle-board]()
+    * [continuous-median]()
+    * [find-loop]()
+    * [lowest-common-manager]()
+    * [shifted-binary-search]()
+    * [search-for-range]()
+    * [quick-select]()
+    * [quick-sort]()
+    * [heap-sort]()
+    * [longest-substring-without-duplication]()
+    * [underscorify-substring]()
+    * [pattern-matches]()
+    * [multi-string-search]()
 
 # Coding - Very Hard Level
 .
     ### pending solution:
-    * [balandec-brackets]()
-    * [balandec-brackets]()
-
+    * [iterative-in-order-traversal]()
+    * [max-profit-k-transactions]()
+    * [palindrome-partitioning-min-cuts]()
+    * [knuth-morris-pratt-algorithm]()
+    * [LRU-cache]()
+    * [numberOf-bonary-tree-topologies]()
+    * [itGoes-sort]()
+    * [longest-increasing-subsequece]()
+    * [airport-connections]()
 
 # Analitical
 * [probability](../master/analytical/probability/probability.md)
