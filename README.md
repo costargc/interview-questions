@@ -22,8 +22,8 @@ This is a collection of interview questions that I saw.
     * [caesar-cipher-encryptor]()
 
 # Coding - Medium Level <br/> <sub> you should focus on those quesitons!</sub>
-* [prime-check](../master/coding/easy-level/prime-number/prime-number.js)
-* [roman-numeral](../master/coding/hard-level/roman-numeral/romanNum.js)
+* [prime-check](../master/coding/medium-level/prime-number/prime-number.js)
+* [roman-numeral](../master/coding/medium-level/roman-numeral/romanNum.js)
     ### pending solution:
     * [Three-number-sum]()
     * [Smallest-difference]()
@@ -50,7 +50,7 @@ This is a collection of interview questions that I saw.
     * [btoa-64-encryption]()
 
 # Coding - Hard Level (you should focus on those quesitons!)
-* 
+* .
     ### pending solution:
     * [four-number-sum]()
     * [subarray-sort]()
@@ -77,8 +77,8 @@ This is a collection of interview questions that I saw.
     * [pattern-matches]()
     * [multi-string-search]()
 
-# Coding - Very Hard Level
-* 
+# Coding - Extreme Level
+* .
     ### pending solution:
     * [iterative-in-order-traversal]()
     * [max-profit-k-transactions]()
