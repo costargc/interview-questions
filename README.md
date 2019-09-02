@@ -2,11 +2,11 @@
 This is a collection of interview questions that I saw.
 
 # Coding - Easy Level
-* [palindrome](../master/coding/easy-level/palindrome/palindrome.js)
+* [palindrome-check](../master/coding/easy-level/palindrome-check/palindrome-check.js)
 * [weekdays](../master/coding/easy-level/weekdays/weekdays.js)
-* [typeof](../master/coding/easy-level/typeof-string-num/typeof-string-sum.js)
-* [string](../master/coding/easy-level/string-sum-search/string-sum-search.js)
-* [array](../master/coding/easy-level/array-or-false/array-or-false.js)
+* [typeof-string-num](../master/coding/easy-level/typeof-string-num/typeof-string-sum.js)
+* [string-sum-search](../master/coding/easy-level/string-sum-search/string-sum-search.js)
+* [array-or-false](../master/coding/easy-level/array-or-false/array-or-false.js)
 * [pangram](../master/coding/easy-level/pangram/pangram.js)
     ### pending solution:
     * [two-number-sum]()
@@ -15,28 +15,15 @@ This is a collection of interview questions that I saw.
     * [linked-list-construction]()
     * [Nth-fibonacci]()
     * [binary-search]()
-    * [find-three-largest-numbres]()
-    * [find-three-largest-numbres]()
-    * [find-three-largest-numbres]()
-    * [find-three-largest-numbres]()
-    * [find-three-largest-numbres]()
-    * [find-three-largest-numbres]()
-    * [find-three-largest-numbres]()
-    * [find-three-largest-numbres]()
-    * [find-three-largest-numbres]()
-    * [find-three-largest-numbres]()
-    * [find-three-largest-numbres]()
-    * [find-three-largest-numbres]()
-    * [find-three-largest-numbres]()
-    * [find-three-largest-numbres]()
-    * [find-three-largest-numbres]()
-    * [find-three-largest-numbres]()
-    * [find-three-largest-numbres]()
-
-
+    * [find-three-largest-numbers]()
+    * [bubble-sort]()
+    * [insertion-sort]()
+    * [selection-sort]()
+    * [caesar-cipher-encryptor]()
 
 # Coding - Medium Level (you should focus on those quesitons!)
 * [prime-check](../master/coding/easy-level/prime-number/prime-number.js)
+* [roman-numeral](../master/coding/hard-level/roman-numeral/romanNum.js)
     ### pending solution:
     * [Three-number-sum]()
     * [Smallest-difference]()
@@ -60,10 +47,10 @@ This is a collection of interview questions that I saw.
     * [search-in-sorted-matrix]()
     * [balandec-brackets]()
     * [longest-palindromic-substring]()
-
+    * [btoa-64-encryption]()
 
 # Coding - Hard Level (you should focus on those quesitons!)
-* [roman-numeral](../master/coding/hard-level/roman-numeral/romanNum.js)
+.
     ### pending solution:
     * [balandec-brackets]()
     * [balandec-brackets]()
