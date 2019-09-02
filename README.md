@@ -10,7 +10,7 @@ This is a collection of interview questions that I saw.
 * [string](../master/coding/easy-level/string-sum-search/string-sum-search.js)
 * [array](../master/coding/easy-level/array-or-false/array-or-false.js)
 * [pangram](../master/coding/easy-level/pangram/pangram.js)
-    # pending:
+    ### pending:
     * [two-number-sum]()
     * [find-closest-value-BST]()
     * [depth-first-search]()
