@@ -21,7 +21,7 @@ This is a collection of interview questions that I saw.
     * [selection-sort]()
     * [caesar-cipher-encryptor]()
 
-# Coding - Medium Level <br/> <font size="0.5">you should focus on those quesitons!</font>
+# Coding - Medium Level <br/> <font style="font-size: 8px">you should focus on those quesitons!</font>
 * [prime-check](../master/coding/easy-level/prime-number/prime-number.js)
 * [roman-numeral](../master/coding/hard-level/roman-numeral/romanNum.js)
     ### pending solution:
