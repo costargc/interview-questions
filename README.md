@@ -50,7 +50,7 @@ This is a collection of interview questions that I saw.
     * [btoa-64-encryption]()
 
 # Coding - Hard Level (you should focus on those quesitons!)
-.
+* 
     ### pending solution:
     * [four-number-sum]()
     * [subarray-sort]()
@@ -78,7 +78,7 @@ This is a collection of interview questions that I saw.
     * [multi-string-search]()
 
 # Coding - Very Hard Level
-.
+* 
     ### pending solution:
     * [iterative-in-order-traversal]()
     * [max-profit-k-transactions]()
