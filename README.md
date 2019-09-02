@@ -2,9 +2,7 @@
 This is a collection of interview questions that I saw.
 
 # Coding - Easy Level
-* [roman-numeral](../master/coding/easy-level/roman-numeral/romanNum.js)
 * [palindrome](../master/coding/easy-level/palindrome/palindrome.js)
-* [prime-check](../master/coding/easy-level/prime-number/prime-number.js)
 * [weekdays](../master/coding/easy-level/weekdays/weekdays.js)
 * [typeof](../master/coding/easy-level/typeof-string-num/typeof-string-sum.js)
 * [string](../master/coding/easy-level/string-sum-search/string-sum-search.js)
@@ -18,7 +16,6 @@ This is a collection of interview questions that I saw.
     * [Nth-fibonacci]()
     * [binary-search]()
     * [find-three-largest-numbres]()
-
     * [find-three-largest-numbres]()
     * [find-three-largest-numbres]()
     * [find-three-largest-numbres]()
@@ -39,6 +36,7 @@ This is a collection of interview questions that I saw.
 
 
 # Coding - Medium Level (you should focus on those quesitons!)
+* [prime-check](../master/coding/easy-level/prime-number/prime-number.js)
     ### pending solution:
     * [Three-number-sum]()
     * [Smallest-difference]()
@@ -65,11 +63,16 @@ This is a collection of interview questions that I saw.
 
 
 # Coding - Hard Level (you should focus on those quesitons!)
+* [roman-numeral](../master/coding/hard-level/roman-numeral/romanNum.js)
+    ### pending solution:
+    * [balandec-brackets]()
+    * [balandec-brackets]()
 
 # Coding - Very Hard Level
-
-# Coding - Expert Level
-
+.
+    ### pending solution:
+    * [balandec-brackets]()
+    * [balandec-brackets]()
 
 
 # Analitical
