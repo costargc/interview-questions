@@ -10,7 +10,7 @@ This is a collection of interview questions that I saw.
 * [string-sum-search](../master/coding/easy-level/string-sum-search/string-sum-search.js)
 * [array-or-false](../master/coding/easy-level/array-or-false/array-or-false.js)
 * [pangram](../master/coding/easy-level/pangram/pangram.js)
-    ### pending solution:
+    ### pending solution (nice to have):
     * [two-number-sum]()
     * [find-closest-value-BST]()
     * [depth-first-search]()
@@ -26,7 +26,7 @@ This is a collection of interview questions that I saw.
 ## Coding - Medium Level <br/> <sub> you should focus on those quesitons!</sub>
 * [prime-check](../master/coding/medium-level/prime-number/prime-number.js)
 * [roman-numeral](../master/coding/medium-level/roman-numeral/romanNum.js)
-    ### pending solution:
+    ### pending solution (nice to have):
     * [Three-number-sum]()
     * [Smallest-difference]()
     * [BST-construction]()
@@ -53,7 +53,7 @@ This is a collection of interview questions that I saw.
 
 ## Coding - Hard Level
 * .
-    ### pending solution:
+    ### pending solution (nice to have):
     * [four-number-sum]()
     * [subarray-sort]()
     * [largest-range]()
@@ -81,7 +81,7 @@ This is a collection of interview questions that I saw.
 
 ## Coding - Extreme Level
 * .
-    ### pending solution:
+    ### pending solution (nice to have):
     * [iterative-in-order-traversal]()
     * [max-profit-k-transactions]()
     * [palindrome-partitioning-min-cuts]()
