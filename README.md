@@ -52,7 +52,7 @@ This is a collection of interview questions that I saw.
     * [btoa-64-encryption]()
 
 ## Coding - Hard Level
-* .
+* [island-numbers](../master/coding/hard-level/island-numbers/island-numbers.js)
     ### pending solution (nice to have):
     * [four-number-sum]()
     * [subarray-sort]()
